@@ -65,7 +65,8 @@ We use boilerplate code a lot. To be productive quickly, focus on the parts that
 
 Don't be concerned by the large number of files. Each has a relatively small, specific purpose.
 Data analysts often use standard ways of organizing their work. 
-Check out [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/#directory-structure) - one of many cookie cutter templates recommending reusable project structures.
+
+🚀 Rocket Tip: Check out [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/#directory-structure) - one of many cookie cutter templates recommending reusable project structures.
 
 ## Illustration
 
