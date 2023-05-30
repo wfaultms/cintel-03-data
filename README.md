@@ -69,4 +69,6 @@ Check out [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-
 
 ## Illustration
 
+![Screenshot: Penguins](images/screenshot_penguins.PNG)
+
 To see the app running locally, see the [screencast](https://app.screencast.com/JeHKkjIA8bUXp).
