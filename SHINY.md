@@ -64,3 +64,13 @@ See the earlier [SHINYAPPS.md](https://github.com/denisecase/cintel-02-app/blob/
 - Secret: (paste the secret from shinyapps.io)
 
 
+-----
+
+## ⚠️ Delete Hosted App Before Pushing to GitHub
+
+Reminder: The GitHub action deploy.yml does not automatically delete an existing app from shinyapps.io so we can redeploy.
+
+Before pushing to GitHub, login to [shinyapps.io](https://www.shinyapps.io/) and view the list of applications. 
+
+- First archive the app.
+- Then delete the archived app.
