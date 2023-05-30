@@ -68,6 +68,8 @@ Data analysts often use standard ways of organizing their work.
 
 🚀 Rocket Tip: Check out [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/#directory-structure) - one of many cookie cutter templates recommending reusable project structures.
 
+-----
+
 ## Illustration
 
 ![Screenshot: Penguins](images/screenshot_penguins.PNG)
