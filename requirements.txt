@@ -1,0 +1,10 @@
+htmltools 
+ipywidgets
+jinja2
+matplotlib
+openpyxl
+pandas
+rsconnect-python
+seaborn
+shiny 
+shinyswatch 
