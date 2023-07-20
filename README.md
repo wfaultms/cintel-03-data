@@ -1,8 +1,13 @@
+### Bill Ault
+#### 44-630 Summer-2/2023
+
+
 # Continuous Intelligence and Interactive Analytics - Working With Data
 
-- Interactive app: [cintel-03-data](https://denisecase.shinyapps.io/cintel-03-data/) - see MT Cars tab and Penguins tab
-- Repository: [cintel-03-data](https://github.com/denisecase/cintel-03-data)
-- Author: [Denise Case](https://github.com/denisecase)
+- Interactive app: [cintel-03-data](https://wfault-apps.shinyapps.io/cintel-03-data/) - see MT Cars tab and Penguins tab
+- Repository: [cintel-03-data](https://github.com/wfaultms/cintel-03-data)
+- Author: [Bill Ault](https://github.com/wfaultms
+)
 
 This time, we add data. 
 Two very common types of data are Excel data and CSV (comma-separated values) data.
@@ -32,7 +37,8 @@ Copy this starter repository into your own GitHub account by clicking the 'Fork'
     
 1. Open VS Code and from the menu, select **View** / **Command Palette**.
 1. Type "Git: Clone" in the command palette and select it.
-1. Enter the URL (web address) of your forked GitHub repository (make sure it contains your GitHub username - not denisecase).
+1. Enter the URL (web address) of your forked GitHub repository (make sure it contains your GitHub username - not wfaultms
+).
 1. Choose a directory on your local machine (e.g., Documents folder) to store the project.
 1. If prompted, sign in to GitHub from VS Code.
 
@@ -42,7 +48,8 @@ With your repository folder open in VS Code:
 
 1. Click on this README.md file for editing.
 1. Update the README.md file by changing your name in the author link above.
-1. Update the links in the README.md file to your username instead of denisecase.
+1. Update the links in the README.md file to your username instead of wfaultms
+.
 
 ## Save Your Changes
 

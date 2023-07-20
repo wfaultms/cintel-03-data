@@ -1,0 +1,6 @@
+ https://wfault-apps.shinyapps.io/cintel-03-data/
+
+ https://github.com/mwaskom/seaborn-data/blob/master/iris.csv
+
+ 
+ 
