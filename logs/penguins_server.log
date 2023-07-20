@@ -1,0 +1,10 @@
+2023-07-20 16:51:16,639.penguins_server.INFO =============================================================
+2023-07-20 16:51:16,640.penguins_server.INFO Today is 2023-07-20 at 04:51 PM
+2023-07-20 16:51:16,640.penguins_server.INFO This file is running on: nt Windows 10
+2023-07-20 16:51:16,640.penguins_server.INFO The Python version is: 3.11.4
+2023-07-20 16:51:16,640.penguins_server.INFO The active environment path is:   D:\Documents\Python-Projects\cintel-03-data\.venv_p3
+2023-07-20 16:51:16,641.penguins_server.INFO The current working directory is: D:\Documents\Python-Projects\cintel-03-data
+2023-07-20 16:51:16,641.penguins_server.INFO =============================================================
+2023-07-20 16:52:03,504.penguins_server.DEBUG filter message: Showing 344 records
+2023-07-20 16:52:03,504.penguins_server.DEBUG Triggered penguin_filter_record_count_string
+2023-07-20 16:52:03,508.penguins_server.DEBUG Triggered penguins_filtered_table

@@ -7,8 +7,14 @@
 .vscode/
 
 # Python Virtual environment folders
+# Added .venv_* to use project specific environments.
+.venv_*/
 .venv/
 venv/
+
+# Add files used for testing and experimentation
+test*.py
+test*.ipynb
 
 # Jupyter Notebook
 .ipynb_checkpoints
